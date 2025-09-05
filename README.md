@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelghani</h1>
-<h3 align="center">A passionate Full Stack Developer from Morocco</h3>
+<h3 align="center">Full-Stack Developer | Building scalable & user-friendly apps 🚀 | Passionate about delivering impactful digital products 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babdellghani&label=Profile%20views&color=0e75b6&style=flat" alt="babdellghani" /> </p>
 
