@@ -21,14 +21,14 @@
 
 
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=babdellghani&show_icons=true&locale=en" alt="babdellghani" />
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babdellghani&" alt="babdellghani" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelghanix10&show_icons=true&locale=en" alt="abdelghanix" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghanix10&" alt="abdelghanix" />
 </div>
 
 
 
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=babdellghani&show_icons=true&locale=en&layout=compact" alt="babdellghani" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelghanix10&show_icons=true&locale=en&layout=compact" alt="abdelghanix" />
 </div>
 
 
