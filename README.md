@@ -139,7 +139,6 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelghanix10&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelghanix10&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdelghanix10&theme=radical&utcOffset=8">
-<img height="169em" src="https://nirzak-streak-stats.vercel.app?user=abdelghanix10&theme=radical">
 </div>
 
 ![68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f666f6f7465722d696c6c757374726174696f6e2e737667](https://github.com/user-attachments/assets/a7362c57-1dfa-4ae7-9c5d-8ff3ae33be0d)
