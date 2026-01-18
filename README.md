@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **NextJs, Nuxt, TypeScript**
 
-- 💬 Ask me about **Laravel, React Js, Vue Js
+- 💬 Ask me about **Laravel, React Js, Vue Js**
 
 - 🤝 I’m eager to collaborate with **Creative Minds & Talented Developers**
 
@@ -81,8 +81,8 @@
       <br>TailwindCSS
     </td>
    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express
+      <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="55" height="55" />
+      <br>VueJs
     </td>
    <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
@@ -111,8 +111,8 @@
       <br>Python
     </td>
     <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
-      <br>TypeScript
+      <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="55" height="55" />
+      <br>.NET
     </td>
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
